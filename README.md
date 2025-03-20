@@ -22,7 +22,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 ## 📂 디렉토리 구조
 ```bash
-📂 baekjoon-algorithms
+📂Algorithm
 │── 📂 Bronze    # 브론즈 문제
 │── 📂 Silver    # 실버 문제
 │── 📂 Gold      # 골드 문제
