@@ -1,6 +1,6 @@
 # 🏆 Baekjoon Algorithm Solutions
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KimSooHyo/Algorithm?color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/KimSooHyo/Algorithm)
 ![GitHub last commit](https://img.shields.io/github/last-commit/KimSooHyo/Algorithm)
 ![GitHub followers](https://img.shields.io/github/followers/KimSooHyo?style=social)
 
