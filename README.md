@@ -1,7 +1,7 @@
 # 🏆 Baekjoon Algorithm Solutions
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KimSooHyo/algorithm?color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_ID/baekjoon-algorithm)
+![GitHub repo size](https://img.shields.io/github/repo-size/KimSooHyo/Algorithm?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/KimSooHyo/Algorithm)
 ![GitHub followers](https://img.shields.io/github/followers/KimSooHyo?style=social)
 
 백준 문제를 꾸준히 풀고 기록하는 저장소입니다!  
