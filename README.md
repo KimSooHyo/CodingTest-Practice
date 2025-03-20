@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/KimSooHyo/algorithm?color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_ID/baekjoon-algorithm)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_ID?style=social)
+![GitHub followers](https://img.shields.io/github/followers/KimSooHyo?style=social)
 
 백준 문제를 꾸준히 풀고 기록하는 저장소입니다!  
 알고리즘 실력을 쌓고, 성장하는 과정을 기록하기 위해 문제 풀이를 정리하고 있습니다.  
