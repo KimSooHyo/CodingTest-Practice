@@ -3,7 +3,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 # 🏆 Baekjoon Algorithm Solutions
 
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_GITHUB_ID/baekjoon-algorithms?color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/KimSooHyo/baekjoon-algorithms?color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_ID/baekjoon-algorithms)
 ![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_ID?style=social)
 
