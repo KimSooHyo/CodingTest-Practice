@@ -15,7 +15,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ---
 
 ## 📖 문제 풀이 방식
-- **언어**: Python 🐍 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)
+- **언어**: Python 🐍 / C
 - **풀이 과정**: 코드 + 주석
 
 ---
