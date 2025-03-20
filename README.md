@@ -1,10 +1,7 @@
-# Algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
-
 # 🏆 Baekjoon Algorithm Solutions
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KimSooHyo/baekjoon-algorithms?color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_ID/baekjoon-algorithms)
+![GitHub repo size](https://img.shields.io/github/repo-size/KimSooHyo/baekjoon-algorithm?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_ID/baekjoon-algorithm)
 ![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_ID?style=social)
 
 백준 문제를 꾸준히 풀고 기록하는 저장소입니다!  
@@ -14,9 +11,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ---
 
 ## 📖 문제 풀이 방식
-- **언어**: Python 🐍 / C++ / Java 등 (사용하는 언어 적기)
-- **풀이 과정**: 코드 + 주석 + 간단한 풀이 설명
-- **정리 목표**: 매일 1문제 이상! 🚀
+- **언어**: Python 🐍 
+- **풀이 과정**: 코드 + 주석
 
 ---
 
@@ -29,3 +25,6 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 │── 📂 Platinum  # 플래티넘 문제
 │── 📂 Others    # 기타 문제
 │── README.md    # 리포지토리 소개
+
+
+This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
