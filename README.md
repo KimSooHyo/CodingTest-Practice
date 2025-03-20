@@ -14,7 +14,7 @@
 ---
 
 ## 📖 문제 풀이 방식
-- **언어**: Python 🐍 
+- **언어**: Python 🐍 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)
 - **풀이 과정**: 코드 + 주석
 
 ---
