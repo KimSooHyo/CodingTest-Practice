@@ -4,6 +4,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/KimSooHyo/Algorithm)
 ![GitHub followers](https://img.shields.io/github/followers/KimSooHyo?style=social)
 
+[![Baekjoon solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smox_i)](https://solved.ac/smox_i)
+
+
 백준 문제를 꾸준히 풀고 기록하는 저장소입니다!  
 알고리즘 실력을 쌓고, 성장하는 과정을 기록하기 위해 문제 풀이를 정리하고 있습니다.  
 
