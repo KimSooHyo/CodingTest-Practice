@@ -11,7 +11,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ---
 
 ## 📖 문제 풀이 방식
-- **언어**: Python 🐍 / C
+- **언어**: Python 🐍
 - **풀이 과정**: 코드 + 주석
 
 ---
