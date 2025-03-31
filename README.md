@@ -4,7 +4,7 @@
 
 
 백준 문제를 꾸준히 풀고 기록하는 저장소입니다!  
-알고리즘 실력을 쌓고, 성장하는 과정을 기록하기 위해 문제 풀이를 정리하고 있습니다.  
+알고리즘 실력을 쌓고, 성장하는 과정을 기록하기 위해 문제 풀이를 정리하고 있습니다.   
 
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
