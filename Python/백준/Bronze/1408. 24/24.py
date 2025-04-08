@@ -16,8 +16,8 @@ test
 """
 
 #시간 입력
-n_h, n_m, n_s = input().split(':')
-s_h, s_m, s_s = input().split(':')
+n_h, n_m, n_s = map(int, input().split(':'))
+s_h, s_m, s_s = map(int, input().split(':'))
 
 #0시일경우 24시로 수정
 if s_h == '00':
@@ -26,8 +26,8 @@ if n_h == '00':
     n_h = '24'
     
 #초 단위로 바꿈    
-start_time = int(s_h) * 3600 + int(s_m)*60 + int(s_s)
-now_time = int(n_h) * 3600 + int(n_m)*60 + int(n_s)
+start_time = s_h * 3600 + s_m*60 + s_s
+now_time = n_h * 3600 + n_m*60 + n_s
 
 #시간 뺀 후 다시 시 분 초로
 time = (start_time - now_time) % (24 * 3600)
