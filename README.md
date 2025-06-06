@@ -18,13 +18,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 ## 📂 디렉토리 구조
 ```bash
-📂Algorithm
+📂Python/백준
 │── 📂 Bronze    # 브론즈 문제
 │── 📂 Silver    # 실버 문제
 │── 📂 Gold      # 골드 문제
 │── 📂 Platinum  # 플래티넘 문제
 │── 📂 Others    # 기타 문제
-│── README.md    # 리포지토리 소개
+README.md    # 리포지토리 소개
 
 
 
