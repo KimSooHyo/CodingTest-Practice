@@ -1,4 +1,4 @@
-# 🏆 Baekjoon Algorithm Solutions
+# 🏆 Algorithm Solutions
 
 [![Baekjoon solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smox_i)](https://solved.ac/smox_i)
 
