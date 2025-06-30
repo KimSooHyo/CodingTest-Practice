@@ -7,3 +7,4 @@
 - [ ] [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
 - [ ] [표편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
 - [ ] [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928#)
+- [ ] [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
