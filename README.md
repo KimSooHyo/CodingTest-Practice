@@ -25,6 +25,6 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 │── 📂 Platinum  # 플래티넘 문제
 │── 📂 Others    # 기타 문제
 README.md    # 리포지토리 소개
-RETRY_LIST.md # 다시 풀어보야할 문제 리스트
+RETRY_LIST.md # 다시 풀어봐야하는 문제 리스트
 
 
