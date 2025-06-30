@@ -3,8 +3,8 @@
 [![Baekjoon solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smox_i)](https://solved.ac/smox_i)
 
 
-백준 문제를 꾸준히 풀고 기록하는 저장소입니다!  
-알고리즘 실력을 쌓고, 성장하는 과정을 기록하기 위해 문제 풀이를 정리하고 있습니다.   
+백준, 프로그래머스 문제를 꾸준히 풀고 기록하는 저장소입니다!  
+코딩 실력을 쌓고, 성장하는 과정을 기록하기 위해 문제 풀이를 정리하고 있습니다.   
 
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
@@ -25,6 +25,6 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 │── 📂 Platinum  # 플래티넘 문제
 │── 📂 Others    # 기타 문제
 README.md    # 리포지토리 소개
-
+RETRY_LIST.md # 다시 풀어보야할 문제 리스트
 
 
