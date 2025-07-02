@@ -8,3 +8,5 @@
 - [ ] [표편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
 - [ ] [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928#)
 - [ ] [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
+- [ ] [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+- [ ] [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
