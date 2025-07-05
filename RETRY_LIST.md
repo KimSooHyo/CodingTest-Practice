@@ -10,3 +10,5 @@
 - [ ] [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 - [ ] [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 - [ ] [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+- [ ] [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
+- [ ] [트리 순회](https://www.acmicpc.net/problem/1991)
