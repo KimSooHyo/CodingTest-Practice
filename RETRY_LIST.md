@@ -12,3 +12,12 @@
 - [ ] [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
 - [ ] [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
 - [ ] [트리 순회](https://www.acmicpc.net/problem/1991)
+- [ ] [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
+- [ ] [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+
+---
+
+# 📕 오답노트 or 더 나은 풀이 정리
+
+- [다리 놓기](Python/백준/Silver/1010. 다리 놓기/boj_1010_다리놓기_오답노트.md)
+- [문자열 내 p와 y의 개수](Python3/프로그래머스/1/12916. 문자열 내 p와 y의 개수/문자열 내 p와 y의 개수 - 더 나은 풀이.md)
