@@ -20,4 +20,4 @@
 # 📕 오답노트 or 더 나은 풀이 정리
 
 - [다리 놓기](Python/백준/Silver/1010. 다리 놓기/boj_1010_다리놓기_오답노트.md)
-- [문자열 내 p와 y의 개수](Python3/프로그래머스/1/12916. 문자열 내 p와 y의 개수/문자열 내 p와 y의 개수 - 더 나은 풀이.md)
+- [문자열 내 p와 y의 개수](https://github.com/KimSooHyo/CodingTest-Practice/blob/0eac3b7c17c2185eae3842b2372c94476f1cc92a/Python3/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12916.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%82%B4%E2%80%85p%EC%99%80%E2%80%85y%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98%20-%20%EB%8D%94%20%EB%82%98%EC%9D%80%20%ED%92%80%EC%9D%B4.md)
