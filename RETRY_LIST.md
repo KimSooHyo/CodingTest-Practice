@@ -14,6 +14,7 @@
 - [ ] [트리 순회](https://www.acmicpc.net/problem/1991)
 - [ ] [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
 - [ ] [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+- [ ] [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)
 
 ---
 
