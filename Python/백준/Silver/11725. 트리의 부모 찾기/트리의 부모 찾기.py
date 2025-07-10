@@ -1,5 +1,6 @@
 import sys
 sys.setrecursionlimit(10**6)
+input = sys.stdin.readline
 
 n = int(input())
 nodes = [[] for _ in range(n+1)]
