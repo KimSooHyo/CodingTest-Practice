@@ -1,19 +1,16 @@
-import sys
-
 def solution(n, words):
-    used = set()  # 사용된 단어 저장
-    used.add(words[0])  # 첫 단어는 무조건 들어감
+    answer = []
+    before_words = []
+    for i in range(len(words)):
         
-    for i in range(1, len(words)):
-        prev_word = words[i - 1]
-        curr_word = words[i]
-
-        # 탈락 조건: 1. 끝말잇기 안 됨  2. 중복 단어 사용
-        if curr_word in used or prev_word[-1] != curr_word[0]:
-            person = (i % n) + 1
-            turn = (i // n) + 1
-            return [person, turn]
+        if i > 0 and (words[i-1][-1] != words[i][0]):
+            print(i, words[i], words[i-1][-1], words[i][0])
+            return [i%n +1, i//n+1]
         
-        used.add(curr_word)
-        
-    return [0, 0]  # 탈락자 없음
+        if words[i] in before_words:
+            print(before_words, print(words[i]))
+            return [i%n +1, i//n+1]
+        else:
+            before_words.append(words[i])
+            
+    return [0,0]
