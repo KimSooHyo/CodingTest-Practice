@@ -1,14 +1,11 @@
 def solution(n, words):
-    answer = []
+
     before_words = []
-    for i in range(len(words)):
+    before_words.append(words[0])
+    
+    for i in range(1, len(words)):
         
-        if i > 0 and (words[i-1][-1] != words[i][0]):
-            print(i, words[i], words[i-1][-1], words[i][0])
-            return [i%n +1, i//n+1]
-        
-        if words[i] in before_words:
-            print(before_words, print(words[i]))
+        if (words[i] in before_words) or (words[i-1][-1] != words[i][0]):
             return [i%n +1, i//n+1]
         else:
             before_words.append(words[i])
