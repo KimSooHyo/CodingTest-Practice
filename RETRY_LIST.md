@@ -2,7 +2,7 @@
 
 **이 문제는 스스로 해결하지 못했고, 다른 사람 풀이를 참고했습니다.**
 🔁 **재도전 필요!**
-- [ ] [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
+- [x] [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 - [ ] [소수](https://www.acmicpc.net/problem/1312)
 - [ ] [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
 - [ ] [표편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
@@ -15,6 +15,7 @@
 - [ ] [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
 - [ ] [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 - [ ] [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)
+- [ ] [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
 
 ---
 
