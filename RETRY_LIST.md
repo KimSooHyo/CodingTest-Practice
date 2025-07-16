@@ -17,6 +17,7 @@
 - [ ] [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)
 - [ ] [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
 - [ ] [통계학](https://www.acmicpc.net/problem/2108)
+- [ ] [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 
 ---
 
