@@ -18,6 +18,7 @@
 - [ ] [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
 - [ ] [통계학](https://www.acmicpc.net/problem/2108)
 - [ ] [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+- [ ] [queuestack](https://www.acmicpc.net/problem/24511)
 
 ---
 
@@ -28,3 +29,4 @@
 - [진법 변환](https://github.com/KimSooHyo/CodingTest-Practice/blob/63f9f84c2847a80d2c37862052645e7271fc3e80/Python/%EB%B0%B1%EC%A4%80/Bronze/11005.%E2%80%85%EC%A7%84%EB%B2%95%E2%80%85%EB%B3%80%ED%99%98%E2%80%852/boj_11005_%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%982_%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8.md)
 - [D-Day](https://github.com/KimSooHyo/CodingTest-Practice/blob/31f9bafcb2125adf6aec6b5bba526f071ba0fac2/Python/%EB%B0%B1%EC%A4%80/Silver/1308.%E2%80%85D%EF%BC%8DDay/boj_1308_D-Day_%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8.md)
 - [수 정렬하기 3](https://github.com/KimSooHyo/CodingTest-Practice/blob/387f5e2f742f70e3322fbf0a3f7bf126b8813da2/Python/%EB%B0%B1%EC%A4%80/Bronze/10989.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%853/boj_10989_%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8.md)
+- [queuestack](https://github.com/KimSooHyo/CodingTest-Practice/blob/9e027ab6d3e75969a6ac5b3077df3ca3b8ac6e97/Python/%EB%B0%B1%EC%A4%80/Silver/24511.%E2%80%85queuestack/boj_24511_%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8.md)
