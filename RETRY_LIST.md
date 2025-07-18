@@ -19,6 +19,9 @@
 - [ ] [통계학](https://www.acmicpc.net/problem/2108)
 - [ ] [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 - [ ] [queuestack](https://www.acmicpc.net/problem/24511)
+- [ ] [게임 맵](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+- [ ] [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+- [ ] [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
 
 ---
 
