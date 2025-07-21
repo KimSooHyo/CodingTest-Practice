@@ -22,6 +22,7 @@
 - [ ] [게임 맵](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
 - [ ] [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 - [ ] [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+- [ ] [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
 
 ---
 
