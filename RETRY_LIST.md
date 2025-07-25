@@ -11,7 +11,7 @@
 - [ ] [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 - [ ] [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
 - [ ] [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
-- [ ] [트리 순회](https://www.acmicpc.net/problem/1991)
+- [x] [트리 순회](https://www.acmicpc.net/problem/1991)
 - [ ] [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
 - [ ] [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 - [ ] [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)
@@ -24,6 +24,7 @@
 - [ ] [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
 - [ ] [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
 - [ ] [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+- [ ] [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
 
 ---
 
@@ -36,3 +37,4 @@
 - [수 정렬하기 3](https://github.com/KimSooHyo/CodingTest-Practice/blob/387f5e2f742f70e3322fbf0a3f7bf126b8813da2/Python/%EB%B0%B1%EC%A4%80/Bronze/10989.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%853/boj_10989_%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8.md)
 - [queuestack](https://github.com/KimSooHyo/CodingTest-Practice/blob/9e027ab6d3e75969a6ac5b3077df3ca3b8ac6e97/Python/%EB%B0%B1%EC%A4%80/Silver/24511.%E2%80%85queuestack/boj_24511_%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8.md)
 - [크로아티아 알파벳](https://github.com/KimSooHyo/CodingTest-Practice/blob/ad7d3e638b6416e7198c7d986a2c9a480d937959/Python/%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3/boj_2941_%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8.md)
+- [듣보잡](https://github.com/KimSooHyo/CodingTest-Practice/blob/2e2505ddf04437d7e721d8f6f7b0abbe32fbcf49/Python/%EB%B0%B1%EC%A4%80/Silver/1764.%E2%80%85%EB%93%A3%EB%B3%B4%EC%9E%A1/boj_1764_%EB%8D%94%EB%82%98%EC%9D%80%ED%92%80%EC%9D%B4.md)
