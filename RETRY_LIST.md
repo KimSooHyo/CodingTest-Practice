@@ -26,6 +26,7 @@
 - [ ] [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
 - [ ] [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
 - [ ] [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
+- [ ] [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
 
 ---
 
