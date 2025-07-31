@@ -30,6 +30,10 @@
 - [x] [N과 M (1)](https://www.acmicpc.net/problem/15649)
 - [ ] [1로 만들기](https://www.acmicpc.net/problem/1463)
 - [ ] [설탕 배달](https://www.acmicpc.net/problem/2839)
+- [ ] [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+- [ ] [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
+- [ ] [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
+- [ ] [계단 오르기](https://www.acmicpc.net/problem/2579)
 
 ---
 
@@ -46,3 +50,4 @@
 - [피보나치 함수](Python/백준/Silver/1003. 피보나치 함수)
 - [좌표 압축](Python/백준/Silver/18870. 좌표 압축/boj_18870_오답노트.md)
 - [문자열 폭탄](Python/백준/Gold/9935. 문자열 폭발/boj_9935_오답노트.md)
+- [피보나치 수 1](Python/백준/Bronze/24416. 알고리즘 수업 － 피보나치 수 1/boj_24416_오답노트.md)
