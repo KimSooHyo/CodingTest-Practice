@@ -4,10 +4,10 @@
 🔁 **재도전 필요!**
 - [x] [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 - [ ] [소수](https://www.acmicpc.net/problem/1312)
-- [ ] [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
+- [x] [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
 - [ ] [표편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
 - [ ] [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928#)
-- [ ] [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
+- [x] [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 - [ ] [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 - [ ] [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
 - [ ] [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
@@ -34,6 +34,9 @@
 - [ ] [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
 - [ ] [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
 - [ ] [계단 오르기](https://www.acmicpc.net/problem/2579)
+- [ ] [FizzBuzz](https://www.acmicpc.net/problem/28702)
+- [ ] [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+- [ ] [패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 
 ---
 
