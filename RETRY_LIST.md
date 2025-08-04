@@ -37,6 +37,8 @@
 - [ ] [FizzBuzz](https://www.acmicpc.net/problem/28702)
 - [ ] [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
 - [ ] [패션왕 신해빈](https://www.acmicpc.net/problem/9375)
+- [ ] [N번째 큰 수](https://www.acmicpc.net/problem/2075)
+- [ ] [상근이의 여행](https://www.acmicpc.net/problem/9372)
 
 ---
 
