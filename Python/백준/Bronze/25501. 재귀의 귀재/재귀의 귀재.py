@@ -16,7 +16,6 @@ def isPalindrome(s : str):
 
 t = int(input())
 for i in range(t):
-    cnt_isPal = 0
     cnt_recursion = 0
     s = input().strip()
     result = isPalindrome(s)
