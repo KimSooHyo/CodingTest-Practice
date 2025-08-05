@@ -16,7 +16,7 @@
 - [ ] [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 - [ ] [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)
 - [ ] [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
-- [ ] [통계학](https://www.acmicpc.net/problem/2108)
+- [x] [통계학](https://www.acmicpc.net/problem/2108)
 - [ ] [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 - [ ] [queuestack](https://www.acmicpc.net/problem/24511)
 - [ ] [게임 맵](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
@@ -39,6 +39,8 @@
 - [ ] [패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 - [ ] [N번째 큰 수](https://www.acmicpc.net/problem/2075)
 - [ ] [상근이의 여행](https://www.acmicpc.net/problem/9372)
+- [ ] [주유소](https://www.acmicpc.net/problem/13305)
+- [ ] [신나는 함수 실행](https://www.acmicpc.net/problem/9184)
 
 ---
 
@@ -56,3 +58,4 @@
 - [좌표 압축](Python/백준/Silver/18870. 좌표 압축/boj_18870_오답노트.md)
 - [문자열 폭탄](Python/백준/Gold/9935. 문자열 폭발/boj_9935_오답노트.md)
 - [피보나치 수 1](Python/백준/Bronze/24416. 알고리즘 수업 － 피보나치 수 1/boj_24416_오답노트.md)
+- [수열](Python/백준/Silver/2559. 수열/boj_2559_오답노트.md)
