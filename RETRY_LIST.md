@@ -41,6 +41,8 @@
 - [ ] [상근이의 여행](https://www.acmicpc.net/problem/9372)
 - [ ] [주유소](https://www.acmicpc.net/problem/13305)
 - [ ] [신나는 함수 실행](https://www.acmicpc.net/problem/9184)
+- [ ] [유기농 배추](https://www.acmicpc.net/problem/1012)
+- [ ] [랜선 자르기](https://www.acmicpc.net/problem/1654)
 
 ---
 
@@ -59,3 +61,4 @@
 - [문자열 폭탄](Python/백준/Gold/9935. 문자열 폭발/boj_9935_오답노트.md)
 - [피보나치 수 1](Python/백준/Bronze/24416. 알고리즘 수업 － 피보나치 수 1/boj_24416_오답노트.md)
 - [수열](Python/백준/Silver/2559. 수열/boj_2559_오답노트.md)
+- [어린 왕자[(Python/백준/Silver/1004. 어린 왕자/boj_1004_오답노트.md)
