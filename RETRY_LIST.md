@@ -46,6 +46,7 @@
 - [ ] [행운의 티켓](https://www.acmicpc.net/problem/1639)
 - [ ] [최단경로](https://www.acmicpc.net/problem/1753)
 - [ ] [좋은 친구](https://www.acmicpc.net/problem/3078)
+- [ ] [분수 합](https://www.acmicpc.net/problem/1735)
 
 ---
 
