@@ -42,9 +42,10 @@
 - [ ] [주유소](https://www.acmicpc.net/problem/13305)
 - [ ] [신나는 함수 실행](https://www.acmicpc.net/problem/9184)
 - [ ] [유기농 배추](https://www.acmicpc.net/problem/1012)
-- [ ] [랜선 자르기](https://www.acmicpc.net/problem/1654)
+- [x] [랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [ ] [행운의 티켓](https://www.acmicpc.net/problem/1639)
 - [ ] [최단경로](https://www.acmicpc.net/problem/1753)
+- [ ] [좋은 친구](https://www.acmicpc.net/problem/3078)
 
 ---
 
