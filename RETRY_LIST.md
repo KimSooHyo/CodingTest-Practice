@@ -47,6 +47,7 @@
 - [ ] [최단경로](https://www.acmicpc.net/problem/1753)
 - [ ] [좋은 친구](https://www.acmicpc.net/problem/3078)
 - [ ] [분수 합](https://www.acmicpc.net/problem/1735)
+- [ ] [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 
 ---
 
