@@ -30,12 +30,12 @@
 - [x] [N과 M (1)](https://www.acmicpc.net/problem/15649)
 - [ ] [1로 만들기](https://www.acmicpc.net/problem/1463)
 - [ ] [설탕 배달](https://www.acmicpc.net/problem/2839)
-- [ ] [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+- [x] [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
 - [ ] [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
 - [ ] [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
 - [ ] [계단 오르기](https://www.acmicpc.net/problem/2579)
 - [ ] [FizzBuzz](https://www.acmicpc.net/problem/28702)
-- [ ] [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+- [x] [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
 - [ ] [패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 - [ ] [N번째 큰 수](https://www.acmicpc.net/problem/2075)
 - [ ] [상근이의 여행](https://www.acmicpc.net/problem/9372)
@@ -50,6 +50,8 @@
 - [ ] [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 - [ ] [부분수열의 합](https://www.acmicpc.net/problem/1182)
 - [x] [미로 탐색](https://www.acmicpc.net/problem/2178)
+- [ ] [숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [ ] [쿼드트리](https://www.acmicpc.net/problem/1992)
 
 ---
 
