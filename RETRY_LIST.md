@@ -52,6 +52,7 @@
 - [x] [미로 탐색](https://www.acmicpc.net/problem/2178)
 - [ ] [숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [ ] [쿼드트리](https://www.acmicpc.net/problem/1992)
+- [ ] [토마토](https://www.acmicpc.net/problem/7569)
 
 ---
 
@@ -72,3 +73,4 @@
 - [수열](Python/백준/Silver/2559. 수열/boj_2559_오답노트.md)
 - [어린 왕자](Python/백준/Silver/1004. 어린 왕자/boj_1004_오답노트.md)
 - [분수찾기](Python/백준/Silver/1193. 분수찾기/boj_1193_오답노트.md)
+- [Z](Python/백준/Gold/1074. Z/boj_1074_오답노트.md)
