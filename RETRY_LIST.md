@@ -44,7 +44,7 @@
 - [x] [유기농 배추](https://www.acmicpc.net/problem/1012)
 - [x] [랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [ ] [행운의 티켓](https://www.acmicpc.net/problem/1639)
-- [ ] [최단경로](https://www.acmicpc.net/problem/1753)
+- [x] [최단경로](https://www.acmicpc.net/problem/1753)
 - [ ] [좋은 친구](https://www.acmicpc.net/problem/3078)
 - [ ] [분수 합](https://www.acmicpc.net/problem/1735)
 - [ ] [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
@@ -53,6 +53,7 @@
 - [ ] [숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [ ] [쿼드트리](https://www.acmicpc.net/problem/1992)
 - [ ] [토마토](https://www.acmicpc.net/problem/7569)
+- [ ] [특정한 최단 경로](https://www.acmicpc.net/problem/1504)
 
 ---
 
