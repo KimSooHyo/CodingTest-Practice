@@ -1,33 +1,31 @@
 import sys
 import heapq
 input = sys.stdin.readline
+INF = float('inf')
 
-v, e = map(int, input().split())
-k = int(input().strip())
-graph = [[] for _ in range(v + 1)]
-for _ in range(e):
-    u, dest, w = map(int, input().split())
-    graph[u].append((dest, w))
-
-inf = 99999999
-distance = [inf] * (v+1)
-
+V, E = map(int, input().split())
+K = int(input())
+graph = [[] for _ in range(V+1)]
+for _ in range(E):
+    u, v, w = map(int, input().split())
+    graph[u].append((v, w))
+    
+dist = [INF] * (V+1)
 def dijkstra(start):
-    distance[start] = 0
+    dist[start] = 0
     heap = [(0, start)]
     
     while heap:
-        dist, now = heapq.heappop(heap)
+        cur_dist, cur_node = heapq.heappop(heap)
         
-        if distance[now] < dist:
+        if cur_dist > dist[cur_node]:
             continue
-        
-        for neighbor, cost in graph[now]:
-            new_cost = dist + cost
-            if new_cost < distance[neighbor]:
-                distance[neighbor] = new_cost
-                heapq.heappush(heap, (new_cost, neighbor))
-                
-dijkstra(k)
-for i in range(1, v + 1):
-    print(distance[i] if distance[i] != inf else "INF")
+        for next, w in graph[cur_node]:
+            cost = cur_dist + w
+            if dist[next] > cost:
+                dist[next] = cost
+                heapq.heappush(heap, (cost, next))
+
+dijkstra(K)
+for i in range(1, V + 1):
+    print(dist[i] if dist[i] != INF else "INF")
