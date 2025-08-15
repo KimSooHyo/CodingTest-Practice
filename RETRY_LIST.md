@@ -51,9 +51,10 @@
 - [ ] [부분수열의 합](https://www.acmicpc.net/problem/1182)
 - [x] [미로 탐색](https://www.acmicpc.net/problem/2178)
 - [ ] [숨바꼭질](https://www.acmicpc.net/problem/1697)
-- [ ] [쿼드트리](https://www.acmicpc.net/problem/1992)
+- [x] [쿼드트리](https://www.acmicpc.net/problem/1992)
 - [ ] [토마토](https://www.acmicpc.net/problem/7569)
 - [ ] [특정한 최단 경로](https://www.acmicpc.net/problem/1504)
+- [ ] [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
 
 ---
 
