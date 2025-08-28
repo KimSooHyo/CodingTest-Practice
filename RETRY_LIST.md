@@ -76,3 +76,4 @@
 - [어린 왕자](Python/백준/Silver/1004. 어린 왕자/boj_1004_오답노트.md)
 - [분수찾기](Python/백준/Silver/1193. 분수찾기/boj_1193_오답노트.md)
 - [Z](Python/백준/Gold/1074. Z/boj_1074_오답노트.md)
+- [적어도 대부분의 배수](Python/백준/Bronze/1145. 적어도 대부분의 배수/boj_1145_오답노트.md)
