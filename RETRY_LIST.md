@@ -55,6 +55,7 @@
 - [ ] [토마토](https://www.acmicpc.net/problem/7569)
 - [ ] [특정한 최단 경로](https://www.acmicpc.net/problem/1504)
 - [ ] [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
+- [ ] [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
 
 ---
 
