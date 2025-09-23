@@ -1,45 +1,28 @@
-"""
-어떻게 해야 모든 경우를 빠지지 않고 체크할 수 있을까
--> 조합을 생각해야 함
-"""
-
 from itertools import combinations_with_replacement
-from collections import Counter
 
-#주어진 조합에서 각각의 점수 계산
-def calculate_score(combi, info):
-    score1, score2 = 0,0
-    for i in range(1, 11):
-        if info[10-i] < combi.count(i):
-            score1 += i
-        elif info[10-i] > 0:
-            score2 += i
-    return score1, score2
-
-#최대 차이와 조합 저장
-def calculate_best_combination(n, info):
-    max_diff = 0
-    max_comb = {}
+def score_cal(info, combi):
+    score_a = score_l = 0
+    for i in range(11):
+        if info[i] < combi.count(10-i):
+            score_l += 10-i
+        elif info[i] > 0:
+            score_a += 10-i
     
-    for combi in combinations_with_replacement(range(11), n):
-        cnt = Counter(combi)
-        score1, score2 = calculate_score(combi, info)
-        diff = score1 - score2
-        
-        if diff > max_diff:
-            max_diff = diff
-            max_comb = cnt
-    
-    return max_diff, max_comb
+    return score_l - score_a
 
-#결과 반환
 def solution(n, info):
-    max_diff, max_comb = calculate_best_combination(n, info)
-    
-    if max_diff > 0:
-        answer = [0] * 11
-        for score in max_comb:
-            answer[10 - score] = max_comb[score]
-        return answer
-    else:
+    answer = []
+    max_combi = []
+    max_diff = 0
+    for combi in combinations_with_replacement(range(11), n):
+        diff = score_cal(info, combi)
+        if max_diff < diff:
+            max_diff = diff
+            max_combi = list(combi)
+            
+    if max_diff <= 0:
         return [-1]
+    else:
+        for i in range(11):
+            answer.append(max_combi.count(10-i))
+        return answer
