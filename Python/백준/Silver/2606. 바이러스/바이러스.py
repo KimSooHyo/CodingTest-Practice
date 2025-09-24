@@ -1,32 +1,22 @@
 import sys
-from collections import deque
+sys.setrecursionlimit(10**6)
 input = sys.stdin.readline
 
-com = int(input())
 n = int(input())
-graph = [[] for _ in range(com+1)]
-for _ in range(n):
-    u, v = map(int, input().split())
-    graph[u].append(v)
-    graph[v].append(u)
-    
-visited = [False] * (com+1)
-def bfs(start):
-    visited[start] = True
-    cnt = 0
-    
-    queue = deque()
-    queue.append(start)
-    
-    while queue:
-        node = queue.popleft()
-        
-        for next in graph[node]:
-            if graph[next] and not visited[next]:
-                queue.append(next)
-                visited[next] = True
-                cnt += 1
-                
-    return cnt
+m = int(input())
 
-print(bfs(1))
+graph = [[] for _ in range(n+1)]
+visited = [False] * (n+1)
+for i in range(m):
+    x, y = map(int, input().split())
+    graph[x].append(y)
+    graph[y].append(x)
+    
+def dfs(current_node):
+    visited[current_node] = True
+    for next_node in graph[current_node]:
+        if not visited[next_node]:
+            dfs(next_node)
+
+dfs(1)
+print(sum(visited) - 1)
