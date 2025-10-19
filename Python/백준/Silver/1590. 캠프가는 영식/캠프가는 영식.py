@@ -9,6 +9,7 @@ for _ in range(N):
         time = S + (I * i)
         if time >= T:
             BusTime.append(time)
+            break
             
         # print(time, BusTime)
         
