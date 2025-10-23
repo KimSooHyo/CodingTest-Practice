@@ -57,6 +57,8 @@
 - [ ] [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
 - [ ] [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
 - [ ] [A → B](https://www.acmicpc.net/problem/16953)
+- [ ] [수 이어 쓰기](https://www.acmicpc.net/problem/1515)
+- [ ] [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)
 
 ---
 
