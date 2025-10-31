@@ -36,7 +36,7 @@
 - [ ] [계단 오르기](https://www.acmicpc.net/problem/2579)
 - [ ] [FizzBuzz](https://www.acmicpc.net/problem/28702)
 - [x] [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
-- [ ] [패션왕 신해빈](https://www.acmicpc.net/problem/9375)
+- [x] [패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 - [ ] [N번째 큰 수](https://www.acmicpc.net/problem/2075)
 - [ ] [상근이의 여행](https://www.acmicpc.net/problem/9372)
 - [ ] [주유소](https://www.acmicpc.net/problem/13305)
@@ -59,6 +59,7 @@
 - [ ] [A → B](https://www.acmicpc.net/problem/16953)
 - [ ] [수 이어 쓰기](https://www.acmicpc.net/problem/1515)
 - [ ] [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)
+- [ ] [수들의 합](https://www.acmicpc.net/problem/1789)
 
 ---
 
